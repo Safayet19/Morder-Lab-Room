@@ -1,0 +1,77 @@
+﻿  glad.c
+  main.cpp
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(394,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(397,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(398,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(399,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(400,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(401,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(411,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(411,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(411,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(422,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(422,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(422,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(433,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(444,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(455,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(455,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(455,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(466,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(466,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(466,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(492,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(493,49): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(494,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(496,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(497,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(498,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(499,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(500,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(501,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(502,66): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(503,66): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(504,66): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(505,66): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(506,66): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(507,66): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(511,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(518,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(525,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(533,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(538,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(543,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(548,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(553,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\main.cpp(558,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(platform.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_init.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_module.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_monitor.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_window.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_joystick.obj)' or at 'C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\glfw3.pdb'; linking object as if no debug info
+  Lighting.vcxproj -> C:\Users\hp\Downloads\Lab 3\Lab 3\Lighting\x64\Debug\Lighting.exe
